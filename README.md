@@ -15,7 +15,6 @@ Kho lưu trữ tổng hợp các bài tập thực hành, tài liệu và biểu
 * **Giai đoạn 3:** Phân rã công việc (WBS) & Tính toán đường găng (CPM / PERT)
 * **Giai đoạn 4:** Quản lý chi phí & Đánh giá giá trị thu được (EVM)
 * **Giai đoạn 5:** Đặc tả yêu cầu phần mềm (SRS) & Thiết kế Use Case
-* *(Bạn có thể cập nhật thêm các buổi tiếp theo tại đây)*
 
 ## 🛠️ Công cụ sử dụng
 * **Quản lý tiến độ:** Microsoft Project / GanttProject / Trello
