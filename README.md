@@ -8,3 +8,16 @@ Kho lưu trữ tổng hợp các bài tập thực hành, tài liệu và biểu
 * **Mã sinh viên:** 2451160808
 * **Lớp:** 66HTTT2
 * **Trường:** Đại học Thủy Lợi
+
+## 📂 Nội dung thực hành
+* * **Buổi 1:** Lên ý tưởng dự án
+* * **Buổi 2:** Lập kế hoạch quản lý dự án dự án & Xây dựng biểu đồ Gantt (Gantt Chart)
+* **Buổi 3:** Phân rã công việc (WBS) & Tính toán đường găng (CPM / PERT)
+* **Buổi 4:** Quản lý chi phí & Đánh giá giá trị thu được (EVM)
+* **Buổi 5:** Đặc tả yêu cầu phần mềm (SRS) & Thiết kế Use Case
+* *(Bạn có thể cập nhật thêm các buổi tiếp theo tại đây)*
+
+## 🛠️ Công cụ sử dụng
+* **Quản lý tiến độ:** Microsoft Project / GanttProject / Trello
+* **Thiết kế sơ đồ:** Draw.io / StarUML
+* **Soạn thảo tài liệu:** Microsoft Word / Excel
